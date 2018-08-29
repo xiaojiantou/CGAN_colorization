@@ -5,7 +5,7 @@ import os
 import time
 
 # basic initialization
-HEIGHT = 175
+# HEIGHT = 175
 WIDTH = 250
 BATCH_SIZE = 25
 LR = 0.0002
